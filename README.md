@@ -59,7 +59,7 @@ Measuring and understanding model performance:
 ## Additional Resources
 
 For more reference code and bonus materials, check out Sebastian Raschka's repository:
-[LLM Resources and Code](https://github.com/rasbt/LLM-from-Scratch)
+[LLM Resources and Code](https://github.com/rasbt/LLMs-from-scratch)
 
 
 ## Acknowledgements
