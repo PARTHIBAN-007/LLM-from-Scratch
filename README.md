@@ -1,4 +1,6 @@
+<a href= "https://github.com/rasbt/LLMs-from-scratch">
 <img src="https://th.bing.com/th/id/OIP.vyCveDNIrqO4PfFzRODbqwHaJR?rs=1&pid=ImgDetMain">
+</a>
 
 # LLM-from-Scratch
 
@@ -53,6 +55,11 @@ Measuring and understanding model performance:
 - **Inspired by Experts**:  
   Builds upon concepts from Sebastian Raschka's *"LLM from Scratch"*, ensuring high-quality content.
 
+
+## Additional Resources
+
+For more reference code and bonus materials, check out Sebastian Raschka's repository:
+[LLM Resources and Code](https://github.com/rasbt/LLM-from-Scratch)
 
 
 ## Acknowledgements
