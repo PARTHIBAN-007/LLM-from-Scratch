@@ -4,6 +4,7 @@
 
 # LLM-from-Scratch
 
+
 An educational repository inspired by Sebastian Raschka's *"LLM from Scratch"* book. This project aims to provide a step-by-step guide to understanding and building a Large Language Model (LLM) from the ground up. It is structured into modular components to enable learners to grasp the fundamental building blocks of modern LLMs.
 
 ## Repository Structure
